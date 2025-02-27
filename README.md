@@ -29,7 +29,12 @@ Event Collectives is an event management system designed to streamline event pla
 4. Open the project in the browser: `http://localhost/event-collectives`.  
 
 ## 📸 Screenshots  
-  
+  ![image](https://github.com/user-attachments/assets/17e70e50-841d-4612-84bd-b754bb1a3d6a)
+  ![image](https://github.com/user-attachments/assets/491ee9c4-772d-47e6-97d6-d8d43c286ab0)
+  ![image](https://github.com/user-attachments/assets/2e40f021-4ec0-4303-92a5-594cb1c06992)
+  ![image](https://github.com/user-attachments/assets/3b703f95-5cb0-4040-81db-7e97fe6b046e)
+  ![image](https://github.com/user-attachments/assets/5669c0d8-996d-4b14-8bb9-e8073d64056f)
+
 
 ## 👥 Team Members  
 - **Abhay Dinesh Nagote** - Backend Development, Database  
